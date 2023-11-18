@@ -1,0 +1,23 @@
+[
+  {
+    "id": "eab6d08b-12e0-4f7c-bb3f-35580f5f5932",
+    "name": "Aventador",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0bd7753f-dfa7-42bd-97f3-9f4a2f91fc62",
+    "name": "Challenger",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "bca6c964-8156-41ca-8935-bad7f6b72946",
+    "name": "Volt",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
